@@ -1,4 +1,4 @@
-# Fitness Tracker Website
+# Fitness Tracker
 
 ## Overview
 The **Fitness Tracker Website** is a web-based application that allows users to set their fitness goals, track their progress, calculate calories burned, and receive exercise recommendations based on their selected goals.
